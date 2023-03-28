@@ -9,7 +9,7 @@ Accept or Decline all pending join requests in a chat. UserBot
 * Use `/no` or `.no`  this command in your channel to ❌️ decline pending join requests
 
 ## Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/All-RequestsAcceptor)               
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ruthvikofficial/All-RequestsAcceptor)               
 
 ## Variables
 
